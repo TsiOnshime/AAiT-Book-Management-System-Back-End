@@ -4,4 +4,4 @@ This project is a system that enables users to access school resource materials 
 Selamawit Shimelis
 Tsion Shimelis
 Yordanos Abay
-### This repo only works on front-end
+### This repo only works on Backend
